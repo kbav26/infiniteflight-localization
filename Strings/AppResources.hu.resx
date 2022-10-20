@@ -166,7 +166,7 @@
     <comment>Fly Online</comment>
   </data>
   <data name="IntroPage.FlySolo" xml:space="preserve">
-    <value>REPÜLJ EGYEDÜL</value>
+    <value>REPÜLJ SOLO</value>
     <comment>Fly Solo</comment>
   </data>
   <data name="IntroPage.Logbook" xml:space="preserve">
